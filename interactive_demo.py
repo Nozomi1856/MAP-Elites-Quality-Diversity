@@ -4,7 +4,6 @@ Interactive demo UI for Creative NAS
 Allows users to quickly explore creative architecture search
 with limited compute budget (demo mode)
 """
-!pip install torch geometric
 import sys
 import os
 from datetime import datetime
